@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-using TmxMapperPCL;
+using TmxMapper;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject1

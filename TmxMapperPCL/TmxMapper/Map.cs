@@ -6,7 +6,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace TmxMapperPCL
+namespace TmxMapper
 {
     [XmlRoot(DataType="string", ElementName="map")]
     public class Map

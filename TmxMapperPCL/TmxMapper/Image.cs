@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace TmxMapperPCL
+namespace TmxMapper
 {
     // <image width="128" height="128" source="TilesPack/7.png"/>
     public class Image
